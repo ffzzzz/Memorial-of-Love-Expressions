@@ -4,7 +4,7 @@
 里面用了一些模板，刚学的前端，代码写的比较乱，里面好多多余的代码，见谅 !!!    
 此项目分了好几个模块，每块内容不同！                
 项目未完成！！！                 
-预览网址：www.chenxiaowei.xyz  （此网址已经更改为其他框架表白代码，请看:https://github.com/ChenxiaoW/birthday  
+预览网址：www.mrchen.online:8080  （此网址已经更改为其他框架表白代码，请看:https://github.com/ChenxiaoW/birthday  
 电脑端网页，手机可能显示有问题！     
 网站第一次访问可能加载过慢，请耐心等待！     
    
